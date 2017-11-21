@@ -10,3 +10,4 @@ Abstract Factory pattern says that just
 
 ## Advantages
 
+* 
