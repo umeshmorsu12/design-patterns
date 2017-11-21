@@ -4,7 +4,7 @@ These design patterns are all about class instantiation or object creation. Thes
 
 Creational design patterns are
 1. [Factory](factorypattern.md)
-2. Abstract factory
+2. [Abstract factory](abstractfactorypattern.md)
 3. Builder
 4. Singleton
 5. Object pool
