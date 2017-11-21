@@ -1,7 +1,6 @@
-# design-patterns
-Design Patterns In Java
+# Design Patterns In Java
 
-Design patterns are of 3 types
+There are 3 different types of patterns
 
 1. [Creational](documents/creational/creational.md)
 2. Structural
