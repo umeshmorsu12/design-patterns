@@ -1,7 +1,3 @@
-# Design Patterns In Java
+## Design Patterns
 
-There are 3 different types of patterns
-
-1. [Creational](documents/creational/creational.md)
-2. Structural
-3. Behavioral
+Check documentation [here](https://github.com/foodminer/design-patterns/wiki)
