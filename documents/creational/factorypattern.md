@@ -22,4 +22,6 @@ A factory pattern or factory method pattern says that just
 
 ## Example
 
+![Factory Pattern](../images/factory-pattern.png)
+
 check example code [here](https://github.com/foodminer/design-patterns/tree/master/src/com/morsu/designpatterns/creational/factorymethod)
