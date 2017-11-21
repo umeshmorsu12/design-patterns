@@ -1,4 +1,4 @@
-package com.morsu.designpatterns.creational.builder;
+package com.morsu.designpatterns.creational.builder.userexample;
 
 public class User {
 
@@ -8,7 +8,7 @@ public class User {
     private final String phone;
     private final String address;
 
-    public User(UserBuilder builder){
+    private User(UserBuilder builder){
         this.firstName = builder.firstName;
         this.lastName = builder.lastName;
         this.age = builder.age;

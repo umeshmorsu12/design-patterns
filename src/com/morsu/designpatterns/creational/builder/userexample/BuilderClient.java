@@ -1,4 +1,4 @@
-package com.morsu.designpatterns.creational.builder;
+package com.morsu.designpatterns.creational.builder.userexample;
 
 import java.util.logging.Logger;
 
